@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "キラキラ",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-19T09:22:44.979765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "菅野よう子",
+      "has_synced": false,
+      "path": "select/01_キラキラ_菅野よう子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "小田和正",
+      "has_synced": false,
+      "path": "select/02_キラキラ_小田和正.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/03_キラキラ_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/04_キラキラ_aiko.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "流れ星☆キラキラ (Twinkle Star Magic☆ ver.)",
+      "artist": "夜空メル",
+      "has_synced": true,
+      "path": "select/05_流れ星☆キラキラ_(Twinkle_Star_Magic☆_ver.)_夜空メル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/06_キラキラ_aiko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キラキラ Days",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/07_キラキラ_Days_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キラキラ☆everyday",
+      "artist": "歳納京子",
+      "has_synced": false,
+      "path": "select/08_キラキラ☆everyday_歳納京子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キラキラ☆everyday",
+      "artist": "歳納京子(CV:大坪由佳)",
+      "has_synced": false,
+      "path": "select/09_キラキラ☆everyday_歳納京子(CV_大坪由佳).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "キラキラ☆everyday [からおけ]",
+      "artist": "歳納京子(CV:大坪由佳)",
+      "has_synced": false,
+      "path": "select/10_キラキラ☆everyday_[からおけ]_歳納京子(CV_大坪由佳).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/11_キラキラ_小田_和正.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "小田和正",
+      "has_synced": false,
+      "path": "select/12_キラキラ_小田和正.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "キラキラ☆サブミッション",
+      "artist": "坂町紅羽(CV:花澤香菜)",
+      "has_synced": false,
+      "path": "select/13_キラキラ☆サブミッション_坂町紅羽(CV_花澤香菜).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SHINE!! キラキラ☆プリキュアアラモード (TVサイズ)",
+      "artist": "駒形友梨",
+      "has_synced": false,
+      "path": "select/14_SHINE!!_キラキラ☆プリキュアアラモード_(TVサイズ)_駒形友梨.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SHINE!! キラキラ☆プリキュアアラモード（TVサイズ）",
+      "artist": "駒形友梨",
+      "has_synced": false,
+      "path": "select/15_SHINE!!_キラキラ☆プリキュアアラモード(TVサイズ)_駒形友梨.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "キラキラ",
+      "artist": "シトロン(CV:梶裕貴)",
+      "has_synced": true,
+      "path": "select/16_キラキラ_シトロン(CV_梶裕貴).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラキラ feat.ハコニワリリィ",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_キラキラ_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
